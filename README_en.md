@@ -19,10 +19,10 @@ pipeline 🚀. Supports extensive customization; paste the resulting URL into yo
     <img src="https://img.shields.io/badge/python-3.13-47c219?label=Python" />
   </a>
   <a href="https://github.com/Guovin/iptv-api/releases/latest">
-    <img src="https://img.shields.io/github/downloads/guovin/iptv-api/total?label=GUI Downloads" />
+    <img src="https://img.shields.io/github/downloads/guovin/iptv-api/total?label=GUI%20Downloads" />
   </a>
   <a href="https://hub.docker.com/repository/docker/guovern/iptv-api">
-    <img src="https://img.shields.io/docker/pulls/guovern/iptv-api?label=Pulls" />
+    <img src="https://img.shields.io/docker/pulls/guovern/iptv-api?label=Docker%20Pulls" />
   </a>
   <a href="https://github.com/Guovin/iptv-api/fork">
     <img src="https://img.shields.io/github/forks/guovin/iptv-api?label=Forks" />
