@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-17 19:03:25,https://www.freetv.top/migu/608807420.m3u8?migutoken=184a95f0cdaaf7c1f3c7b4cd06d432af7234562e68074726eac10898c158cf1eea49819ced71b5e3d2f3ea0023ff71f8062e39a0a92ffd236a2c1ef4a30ca7f3cb03548908d23e6c6d685437e2$订阅源
+2026-03-19 18:56:31,https://www.freetv.top/migu/608807420.m3u8?migutoken=184a95f0cdaaf7c1f3c7b4cd06d432af7234562e68074726eac10898c158cf1eea49819ced71b5e3d2f3ea0023ff71f8062e39a0a92ffd236a2c1ef4a30ca7f3cb03548908d23e6c6d685437e2$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=184a95f0cdaaf7c1f3c7b4cd06d432af7234562e68074726eac10898c158cf1eea49819ced71b5e3d2f3ea0023ff71f8062e39a0a92ffd236a2c1ef4a30ca7f3cb03548908d23e6c6d685437e2$订阅源
@@ -249,8 +249,5 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=81ac3a9691673bbadc0
 西藏卫视,http://cc02.tv12.xyz/9.m3u8$订阅源
 新疆卫视,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 新疆卫视,http://cc02.tv12.xyz/10.m3u8$订阅源
-新疆卫视,http://k.061899.xyz/k.php?id=xjws$订阅源
-新疆卫视,http://k.061899.xyz/k.php?id=xjws$订阅源
 云南卫视,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 云南卫视,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86$订阅源
-云南卫视,http://k.061899.xyz/k.php?id=ynws$订阅源
